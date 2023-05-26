@@ -1,0 +1,123 @@
+/* --------------- */
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+img {
+	max-width: 100%;
+}
+
+figure>img {
+	display: block;
+	object-fit: cover;
+}
+
+/* --------------- */
+
+body {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	gap: 60px;
+	padding: 60px;
+}
+
+/* --------------- */
+
+.texte-image {
+	position: relative;
+}
+
+.texte-image__conteneur {
+	display: flex;
+	flex-wrap: wrap;
+	max-width: 740px;
+
+	background-color: lightgrey;
+
+	border-radius: 3px;
+	overflow: hidden;
+}
+
+.texte-image__image {
+	flex-basis: 260px;
+	flex-grow: 1;
+	display: flex;
+}
+
+.texte-image__texte {
+	display: flex;
+	flex-direction: column;
+	flex-basis: 260px;
+	flex-grow: 1;
+	gap: 20px;
+	padding: 20px;
+}
+
+
+.texte-image__titre {
+	font-family: Arial;
+}
+
+.texte-image__cercle-vedette {
+	position: absolute;
+	left: 100%;
+	top: 0;
+	translate: -60% -40%;
+}
+
+/* --------------- */
+
+.cercle-vedette {
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+}
+
+.cercle-vedette_orange {
+	background-color: orange;
+}
+
+
+.cercle-vedette_rouge {
+	background-color: red;
+}
+
+
+/* --------------- */
+
+.bouton {
+	display: inline-block;
+	align-self: start;
+	margin-top: auto;
+
+	padding: 5px 10px;
+	background-color: white;
+	border-radius: 3px;
+}
+
+.bouton_primaire {
+	font-size: 1.25em;
+}
+
+.bouton_secondaire {
+	font-size: 0.85em;
+}
+
+
+/* --------------- */
+
+.grand {
+	width: 700px;
+	max-width: 100%;
+}
+
+.petit {
+	width: 400px;
+	max-width: 100%;
+}
+
+/* --------------- */

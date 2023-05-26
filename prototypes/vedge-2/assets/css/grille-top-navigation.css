@@ -1,0 +1,130 @@
+/* -------- GRILLE TOP NAVIGATION -------- */
+
+.grille-top {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.logo-header {
+    width: 80px;
+    aspect-ratio: 1;
+    object-fit: cover;
+    padding: 8px 50px;
+    background-color: lightgray;
+}
+
+.grille-top>nav {
+    display: flex;
+    gap: 20px;
+    align-self: center;
+    margin-right: auto;
+    padding: 20px;
+}
+
+.grille-top>nav>a {
+    color: black;
+    text-decoration: none;
+    align-self: center;
+}
+
+.grille-top>nav>a:hover {
+    color: gray;
+}
+
+/* debut nav drop hover */
+
+.nav-drop-btn {
+    border: none;
+    outline: none;
+    background-color: inherit;
+    font-family: inherit;
+    font-size: inherit;
+}
+
+.nav-drop-content {
+    display: none;
+    position: absolute;
+    min-width: 128px;
+    box-shadow: 0px 8px 16px 0px rgb(0, 0, 0, 0.5);
+    z-index: 1;
+}
+
+.nav-drop-content a {
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+
+.nav-drop:hover .nav-drop-content {
+    display: block;
+}
+
+.nav-drop-content a:hover {
+    color: gray;
+}
+
+/* fin nav drop hover */
+
+
+.grille-top>*>h1 {
+    font-size: 16px;
+    color: black;
+    font-weight: 400;
+}
+
+.grille-top>header {
+    text-align: center;
+    width: 250px;
+}
+
+.grille-top>header>*+* {
+    margin-top: 10px;
+}
+
+/* debut aside "À Propos" drop hover */
+
+
+.grille-top>aside {
+    position: relative;
+    z-index: 9999;
+}
+
+.grille-top>aside a {
+    color: black;
+    display: block;
+    padding: 8px;
+    text-decoration: none;
+}
+
+.grille-top>aside a:hover {
+    color: gray;
+}
+
+.grille-top>aside:hover>div {
+    display: block;
+}
+
+.grille-top>aside>* {
+    padding: 10px;
+    background-color: white;
+}
+
+.grille-top>aside h2 {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.grille-top>aside>div {
+    position: absolute;
+    top: 100%;
+    min-width: max-content;
+    display: none;
+    min-width: max-content;
+    box-shadow: 0px 8px 16px 0px rgb(0, 0, 0, 0.5);
+    right: 0;
+}
+
+/* fin  aside "À Propos" drop hover */

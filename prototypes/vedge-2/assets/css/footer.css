@@ -1,0 +1,72 @@
+/* -------- FOOTER FRANCHISE -------- */
+
+
+.footer-franchise>header {
+    min-height: 20vh;
+    background-color: rgb(80, 80, 80);
+    padding: 40px 20px;
+    color: white;
+}
+
+.footer-franchise>header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.footer-franchise>header>* {
+    flex-grow: 1;
+}
+
+.footer-franchise>header h1 {
+    font-size: 30px;
+    padding: 16px;
+}
+
+.footer-franchise>header>div {
+    max-width: calc(60rem - 20px);
+}
+
+
+
+/* -------- FOOTER RESEAUX -------- */
+
+.footer-reseaux>header {
+    display: flex;
+    min-height: 1vh;
+    background-color: black;
+    padding: 40px 20px;
+    color: white;
+}
+
+.footer-reseaux>header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.footer-reseaux>header>* {
+    flex-grow: 1;
+}
+
+.footer-reseaux>header>article {
+    max-width: 45px;
+    padding: 0 15px;
+}
+
+.footer-reseaux img{
+    width: 50px;
+    aspect-ratio: 1;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.logo-header {
+    width: 80px;
+    aspect-ratio: 1;
+    object-fit: cover;
+    padding: 8px 50px;
+    background-color: lightgray;
+}

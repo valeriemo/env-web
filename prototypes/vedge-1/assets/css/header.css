@@ -1,0 +1,12 @@
+/* HEADER ----------------------------------------------------------------- */
+
+.hero-header {
+  position: relative;
+  margin: 0;
+  height: 40rem;
+}
+
+.header-content-ctn {
+  padding-top: 260px;
+  padding-bottom: 200px;
+}

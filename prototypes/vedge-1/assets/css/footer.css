@@ -1,0 +1,18 @@
+/* FOOTER ---------------------------------------------------------------- */
+
+footer {
+  background-color: rgb(241, 241, 241);
+  overflow: hidden;
+  margin: 0;
+}
+
+.footer-ctn {
+  margin: 80px auto;
+  display: flex;
+  justify-content: center;
+}
+
+.footer-ctn > div {
+  margin-left: 30px;
+  margin-right: 30px;
+}

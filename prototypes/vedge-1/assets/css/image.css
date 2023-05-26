@@ -1,0 +1,47 @@
+/* IMAGES ---------------------------------------------------------------- */
+
+img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.logo-ctn {
+  width:80px;
+  height: 40px;
+}
+
+.img-hero-ctn {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 40rem;
+  z-index: -1;
+}
+
+.img-big-ctn {
+  height: 40rem;
+  border-radius: 4px;
+}
+
+.img-support-ctn {
+  width: 30%;
+  height: 260px;
+  border-radius: 4px;
+}
+
+.img-litte-ctn {
+  width: 100%;
+  height: 300px;
+  border-radius: 4px;
+}
+
+.avis-img-ctn {
+  border-radius: 50%;
+  overflow: hidden;
+  width: 180px;
+  height: 180px;
+  display: inline-block;
+}

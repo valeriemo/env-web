@@ -1,0 +1,29 @@
+---------------------
+CRÉATION ET DESIGN DE SITE WEB
+TP 1
+ÉTUDIANT: Pablo Gutenberg Nascimento Gomes
+---------------------
+
+MENU:
+Le menu principal est localisé au top de façon horizontale avec toutes les pages plus visées avec un accès rapide et direct.
+Le menu secondaire est localisé au top aussi, mais a droite et avec son contenu caché dedans, parce que ces sont des informations moins cherches par les client finales (les acheteurs des plats).
+
+GRILLE EN-TÊTE (IMAGE GRANDE) :
+	Composé par une image (un plat ou des ingrédients) qui prend pratiquement tout l’écran, et un slogan que résume le mode d’emploi du restaurant.
+
+GRILLE PROMO :
+	Composé par une photo de l’article en promotion du moment, avec un court texte d’appuie et un bouton pour accéder d’autres promotions générales.
+
+GRILLE RECHERCHE :
+	Cette grille ne prend pas beaucoup de place de l’écran pour ne pas trop occuper l’espace de navigation du client avec une information qu’exige moins de temps de lecture.
+
+GRILLE RESTAURANTS VEDETTE :
+	J’ai décidé de montrer les 6 restaurants de la franchise (au maximum) au même temps parce que ce n’est pas un grand numéro d’article à montrer dans une page web et au même temps le client peut avoir une idée rapide des emplacements et créer d’avantage une vision que l’entreprise est solide et bien développée dans le marché.
+
+FOOTER FRANCHISE (1ER PARTIE) :
+	Footer composé par un appel aux possibles acheteurs de la franchise. Il est localisé à la fin de la page parce que j’imagine que la personne qui est arrivé à cette partie, c’est une personne vraiment intéressé par le restaurants.
+
+FOOTER RESEAUX (2EM PARTIE) :
+	Mon ajout pour le site. Les icones/liens pour les réseaux sociaux de l’entreprise.
+
+

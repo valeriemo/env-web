@@ -1,0 +1,53 @@
+/* Import des grilles  */
+@import url("grille-top-navigation.css");
+@import url("grille-image-grande.css");
+@import url("grille-promo.css");
+@import url("grille-recherche.css");
+@import url("grille-restaurants-vedette.css");
+@import url("footer.css");
+
+
+/* DEBUT STANDART ITEMS */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: sans-serif;
+}
+
+img {
+    max-width: 100%;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: gray;
+    border-radius: 5px;
+    color: inherit;
+    text-decoration: none;
+    margin: 15px 0;
+}
+
+.form-champ {
+    padding: 10px 15px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+h1 {
+    padding: 16px 0;
+}
+
+
+
+
+/* ajouter un contour partout */
+
+* {
+    outline: 1px dotted red;
+}
+
+/* fin ajout de contour */

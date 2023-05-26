@@ -1,0 +1,13 @@
+/* COMPOSANTS SPECIFIQUES PAGE PHILOSOPHIE ------------------------------ */
+
+.concept-ctn > div:first-child {
+  flex: 1;
+}
+
+.concept-ctn > div:last-child {
+  flex: 1;
+}
+
+.concept-ctn p {
+  max-width: 500px;
+}

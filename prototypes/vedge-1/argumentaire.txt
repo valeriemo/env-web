@@ -1,0 +1,29 @@
+ARGUMENTAIRE
+
+--Présentation générale---
+
+Le site comporte peu d'informations et a pour objectif premier d'être une vitrine pour le restaurant. Aussi, j'ai choisi une présentation avec de larges sections horizontales et de grandes images.
+
+---Navigation---
+
+J'ai choisi de placer le menu principal dans une barre de navigation horizontale en haut de page pour que cela soit ce qu'on voit en premier. Comme il y a peu d'éléments, un format horizontal avec un sous-menu déroulant pour les restaurants semble le mieux adapté. La barre de navigation disparait quand on scroll vers le bas afin de libérer la vue sur la page, et réapparait en cas de besoin en scrollant vers le haut pour rester facilement accessible aux usagers. J'ai placé le menu secondaire dans le footer en bas de page, facilement repérable car conventionnel, tout en restant discret. 
+
+---Page Accueil---
+
+Pour cette page comme pour les autres, il y a une large section hero avec une grande image et un titre de page pour repérer d'un coup d'oeil le thème de la page. 
+J'ai supposé que notre persona visé était un ou une potentielle cliente, ce qui a orienté les choix suivants.
+J'ai choisi d'ajouter une section "Commande à emporter" pour mettre en avant cette option très utilisée dans la restauration, encore plus depuis la pandémie (et qui semble disponible pour ce restaurant puisqu'on a "Commande en ligne" dans la navigation).
+Dans cette page et la page Franchise, je mets en priorité les promotions, souvent éphémères et qui peuvent déclencher un achat, pour qu'elles soient visibles même pour des habitué.e.s du restaurant qui pourraient sinon passer à côté de l'information car ils et elles connaissent le site et ne le parcourent plus de A à Z. 
+J'ai ensuite choisi de mettre la section "Trouver un restaurant" qui est une fonctionnalité pratique pour l'utilisateur.ice, on veut donc qu'il ou elle la trouve facilement. Pour illustrer les différents restaurants existants, j'ai ensuite mis la section "Restaurants en vedette". Cette section permet également de faire une transition logique avec notre dernière section et notre second persona potentiellement visé.
+En effet, si notre utilisateur.ice cherche à développer une franchise, la section "Etablir son restaurant" va l'intéresser. Comme ce n'est pas notre persona visé en premier, je l'ai mis en bas de page. De plus, ce persona sera sûrement plus à même d'explorer la page jusqu'en bas s'il est intéressé par l'ouverture d'une franchise, contrairement à un ou une cliente qui sera plus dans un comportement de survol.
+
+---Page Franchise---
+
+Après la section hero et les promotions, j'ai placé en premier la section "Menus" car pour moi c'est l'information la plus importante qu'un.e client.e va chercher au sujet d'un restaurant ("Proposent-ils des plats que j'aime ?"). La seconde chose qu'il ou elle cherchera sûrement, sera "est-ce que le restaurant est beau, agréable ?". C'est pourquoi, j'ai ensuite placé une galerie photo pour donner un aperçu du décors et des plats. Pour appuyer cette galerie et finir de convaincre notre client.e, j'ai choisi de mettre la section "Critiques". 
+J'ai placé la section "Neuf personnes et plus" vers le bas de la page car c'est une information plus spécifique qui n'intéressera pas tout le monde. Néanmoins, je l'ai mis dans un bloc de couleurs pour qu'elle soit facilement repérable, et afin d'alléger la page, il suffit de cliquer sur le lien pour ouvrir une fenêtre pop-up avec les informations plus détaillées de la section "Réserver pour un groupe". 
+Enfin, en explorant divers sites de restaurants, j'ai l'impression qu'il est de convention de placer les horaires et l'adresse du restaurant en bas de page, aussi j'ai fait de même pour respecter cette habitude d'utilisation. 
+
+---Page Philosophie---
+
+Après la section hero suit la section de présentation du concept du restaurant, comme c'est le sujet premier de la page.
+J'ai ensuite conservé l'ordre des sections "Trouver un restaurant" et "Restaurants en vedette", d'une part pour rester cohérente avec la page d'accueil, d'autre part pour faire une pause entre les grandes images de la section précédente et la grille d'images de la section "Restaurants en vedette". Et puis, la présentation des valeurs du restaurant aura tellement donné envie au futur client qu'il ou elle aura immédiatement envie de trouver un restaurant près de son habitation !

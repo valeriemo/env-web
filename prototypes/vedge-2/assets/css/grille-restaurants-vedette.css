@@ -1,0 +1,26 @@
+/* -------- GRILLE RESTAURANTS VEDETTE -------- */
+
+.grille-restaurants-vedette {
+    background-color: lightgray;
+    text-align: center;
+}
+
+.grille-restaurants-vedette>div {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.grille-restaurants-vedette>div>article {
+    padding: 10px;
+    flex: 30%;
+}
+
+.grille-restaurants-vedette img {
+    width: 250px;
+    border: 2px solid darkgray;
+    border-radius: 5%;
+}
+
+.grille-restaurants-vedette h3 {
+    padding: 10px 0;
+}

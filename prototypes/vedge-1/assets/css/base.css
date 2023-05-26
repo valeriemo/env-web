@@ -1,0 +1,82 @@
+/* REGLES GENERALES -------------------------------------------------------------- */
+
+/* 20px */
+/* 1200px */
+/* 700px */
+/* 400px */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* tous les elts avant un p, une a, un h1... */
+* + p,
+* + img,
+* + a,
+* + h1,
+* + h2,
+* + h3,
+* + h4,
+* + h5,
+* + h6 {
+  margin-top: 20px;
+}
+
+html {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  line-height: 1.5625;
+  font-size: 16px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1.25;
+}
+
+h1 {
+  font-size: 3.5rem;
+}
+
+h2 {
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-size: 2rem;
+}
+
+h4 {
+  font-size: 1.5rem;
+}
+
+p, ul {
+  font-size: 18px;
+}
+
+a {
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+  color: black;
+}
+
+ul {
+  list-style-type: none; 
+  padding: 0; 
+  margin: 0;
+}
+
+body > * {
+  margin: 20px;
+}
+
+
+
+
+

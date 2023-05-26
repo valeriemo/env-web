@@ -1,0 +1,27 @@
+/* -------- GRILLE RECHERCHE -------- */
+
+.grille-recherche>header {
+    margin: 0;
+    min-height: 25vh;
+    padding: 40px 20px;
+}
+
+.grille-recherche>header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.grille-recherche>header>* {
+    flex-grow: 1;
+}
+
+.grille-recherche>header h1 {
+    font-size: 30px;
+}
+
+.grille-recherche>header>div {
+    max-width: calc(60rem - 20px);
+}
+
